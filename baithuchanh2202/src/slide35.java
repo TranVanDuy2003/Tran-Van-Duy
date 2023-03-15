@@ -14,7 +14,7 @@ public class slide35 {
         }
         System.out.println("So nho nhat trong hai so la: " + min);
         System.out.println("Tran VAN Duy");
-        
+    
     }
 }
 
